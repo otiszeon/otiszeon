@@ -1,4 +1,4 @@
-/* ---------------------- 
+/* ----------------------
 Stylesheet Guide
 -------------------------
 
@@ -131,7 +131,7 @@ textarea:focus {
 }
 /* ================= LOADING ANIMATION ================== */
 #site-loading{
-    background-color: #222; 
+    background-color: #222;
 }
 /* ================= PAGE STRUCTURE ================== */
 .cv-page-content {
