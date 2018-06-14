@@ -154,6 +154,7 @@ textarea:focus {
 /* ================= SIDEBAR ================== */
 #cv-sidebar {
     background-color: #333;
+    opacity: 0.8;
 }
 #cv-sidebar h1, #cv-sidebar h2, #cv-sidebar h3, #cv-sidebar h4, #cv-sidebar h5, #cv-sidebar h6{
     color:#fff;
@@ -227,10 +228,14 @@ textarea:focus {
 #home-title h1 span{
     color:#fff;
     background-color: #222;
+    opacity: 0.8;
+
 }
 #home-slide-title span, #home-title h1 .mobile-title{
     color:#fff;
     background-color: #de3926;
+    opacity: 0.8;
+
 }
 #home-title p{
     color: #222;
