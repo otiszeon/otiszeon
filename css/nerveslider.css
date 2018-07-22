@@ -70,6 +70,7 @@
 .ns_nerveSlider .ns_slideContainer img {
     position: absolute;
     z-index: auto;
+    top: 120px;
 }
 
 .ns_nerveSlider .ns_slideContainer>a {

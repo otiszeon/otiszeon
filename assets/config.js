@@ -49,16 +49,16 @@ window.cpanel = {
     },
     slides: [
         {
-            prefix: "Otis",
+            prefix: "",
             title: "Otis Zeon",
             subtitle: "UI\/UX Developer and Creative",
             type: 'vcard',
             backgroundImage: "",
             backgroundColor: "",
             color: "",
-            buttonText: "",
-            buttonLink: "",
-            biography: "",
+            buttonText: "Hire Me",
+            buttonLink: "https:\/\/www.upwork.com\/freelancers\/~01001bbe7fe21fafb5",
+            biography: "I have 15 years in creative designs, UI\/UX designs and web application development. I also specialize in server side development and security.",
             portraitImage: ""
         }
     ]

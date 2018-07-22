@@ -48,6 +48,9 @@ body {
 h1,h2,h3,h4,h5,h6 {
     color: #222;
 }
+h3,h4,h5,h6 {
+    color: #999;
+}
 h1.border:after,
 h2.border:after,
 h3.border:after,
@@ -97,11 +100,11 @@ textarea:focus {
 }
 .cv-button {
     background-color: #fff;
-    border: 3px solid #222;
-	color: #222;
+    border: 3px solid #1053A0;
+	color: #1053A0;
 }
 .cv-button.primary {
-    background-color: #222;
+    background-color: #1053A0;
     color:#fff;
 }
 .cv-button:hover {
@@ -124,7 +127,7 @@ textarea:focus {
     background-color: #222;
 }
 .searchbox .cv-button {
-    border-left:1px solid #333 !important;
+    border-left:1px solid #1053A0 !important;
 }
 .searchbox .cv-button:hover {
     border-left:1px solid #222 !important;
@@ -142,14 +145,14 @@ textarea:focus {
 }
 /* ================= MAIN MENU ================== */
 #cv-menu{
-    background-color: #222;
+    background-color: #fff;
 }
 #cv-main-menu ul li a {
-    color: #fff;
+    color: #1053A0;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 #cv-main-menu ul li:first-child a {
-    background: #de3926;
+    background: #fff;
 }
 /* ================= SIDEBAR ================== */
 #cv-sidebar {
@@ -229,23 +232,28 @@ textarea:focus {
     color:#fff;
     background-color: #222;
     opacity: 0.8;
+    border-radius: 0px 0px 25px 0px;
+    /* box-shadow: 0px 20px 5px 0px #1E71DA; */
+
 
 }
 #home-slide-title span, #home-title h1 .mobile-title{
     color:#fff;
-    background-color: #de3926;
-    opacity: 0.8;
+    background-color: #000F49;
+    opacity: 1;
+    border-radius: 25px 0px 0px 0px;
 
 }
 #home-title p{
-    color: #222;
-    background-color: #fff;
+    color: #1053A0;
+    background-color: ;
 }
 /* ================= HOME SOCIAL BAR ================== */
 #cv-home-social-bar ul li a {
-    color: #222;
-    border-right: 1px solid #f3f3f3;
+    color: #004E94;
+    border-right: 0px solid #000F49;
     background-color: #fff;
+    border-radius: 50px;
 }
 #cv-home-social-bar ul li a:hover {
     color: #de3926;
@@ -441,7 +449,7 @@ textarea:focus {
 .blogpager .cv-button {
     background-color: #f3f3f3;
     border-color: #f3f3f3;
-    color:#222;
+    color:#1053A0;
 }
 .blogpager .cv-button:hover {
     background-color: #f3f3f3;

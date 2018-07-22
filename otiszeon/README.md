@@ -1,2 +1,0 @@
-# otiszeon
-My Vcard Website
