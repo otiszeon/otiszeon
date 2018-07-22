@@ -470,7 +470,7 @@ form .cv-button {
     height: 100%;
     left: 5em;
     z-index: 99;
-    width: 480px;
+    width: 325px;
     max-width: calc(100% - 5em);
     -webkit-transition: all 0.2s linear;
     -moz-transition: all 0.2s linear;
