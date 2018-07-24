@@ -90,17 +90,17 @@ jQuery('#gallery2').on('click', function (e) {
         dynamicEl: [
             {
 
-                "src": "http://vimeo.com/281484867",
+                "src": "https://vimeo.com/281484867",
                 "subHtml": "Vimeo",
                 'thumb': 'images/gallery/gallery2/thumbnail1.png'
 
             },
-            {  "src": "http://vimeo.com/281484867",
+            {  "src": "https://vimeo.com/281484867",
               "subHtml": "Vimeo",
               'thumb': 'images/gallery/gallery2/thumbnail1.png'
             }
             // { // You Tube videos work only on a server.
-            //     "src": "http://www.youtube.com/embed/wTzhnZo7NWk",
+            //     "src": "https://www.youtube.com/embed/wTzhnZo7NWk",
             //     "subHtml": "You Tube",
             //     'thumb': 'images/gallery/gallery2/thumbnail2.png'
             //
@@ -198,13 +198,13 @@ jQuery('#gallery4').on('click', function (e) {
         dynamicEl: [
             {
 
-                "src": "http://vimeo.com/70301553",
+                "src": "https://vimeo.com/70301553",
                 "subHtml": "Vimeo",
                 'thumb': 'images/gallery/gallery4/thumbnail1.png'
 
             },
             { // You Tube videos work only on a server.
-                "src": "http://www.youtube.com/embed/wTzhnZo7NWk",
+                "src": "https://www.youtube.com/embed/wTzhnZo7NWk",
                 "subHtml": "You Tube",
                 'thumb': 'images/gallery/gallery4/thumbnail2.png'
 
@@ -303,13 +303,13 @@ jQuery('#gallery6').on('click', function (e) {
         dynamicEl: [
             {
 
-                "src": "http://vimeo.com/70301553",
+                "src": "https://vimeo.com/70301553",
                 "subHtml": "Vimeo",
                 'thumb': 'images/gallery/gallery6/thumbnail1.png'
 
             },
             { // You Tube videos work only on a server.
-                "src": "http://www.youtube.com/embed/wTzhnZo7NWk",
+                "src": "https://www.youtube.com/embed/wTzhnZo7NWk",
                 "subHtml": "You Tube",
                 'thumb': 'images/gallery/gallery6/thumbnail2.png'
 
@@ -408,13 +408,13 @@ jQuery('#gallery8').on('click', function (e) {
         dynamicEl: [
             {
 
-                "src": "http://vimeo.com/70301553",
+                "src": "https://vimeo.com/70301553",
                 "subHtml": "Vimeo",
                 'thumb': 'images/gallery/gallery8/thumbnail1.png'
 
             },
             { // You Tube videos work only on a server.
-                "src": "http://www.youtube.com/embed/wTzhnZo7NWk",
+                "src": "https://www.youtube.com/embed/wTzhnZo7NWk",
                 "subHtml": "You Tube",
                 'thumb': 'images/gallery/gallery8/thumbnail2.png'
 
@@ -649,13 +649,13 @@ jQuery('#gallery11').on('click', function (e) {
         dynamicEl: [
             {
 
-                "src": "http://vimeo.com/70301553",
+                "src": "https://vimeo.com/70301553",
                 "subHtml": "Vimeo",
                 'thumb': 'images/gallery/gallery11/thumbnail1.png'
 
             },
             { // You Tube videos work only on a server.
-                "src": "http://www.youtube.com/embed/wTzhnZo7NWk",
+                "src": "https://www.youtube.com/embed/wTzhnZo7NWk",
                 "subHtml": "You Tube",
                 'thumb': 'images/gallery/gallery11/thumbnail1.png'
             }
@@ -680,13 +680,13 @@ jQuery('#gallery12').on('click', function (e) {
         dynamicEl: [
             {
 
-                "src": "http://vimeo.com/70301553",
+                "src": "https://vimeo.com/70301553",
                 "subHtml": "Vimeo",
                 'thumb': 'images/gallery/gallery12/thumbnail1.png'
 
             },
             { // You Tube videos work only on a server.
-                "src": "http://www.youtube.com/embed/wTzhnZo7NWk",
+                "src": "https://www.youtube.com/embed/wTzhnZo7NWk",
                 "subHtml": "You Tube",
                 'thumb': 'images/gallery/gallery12/thumbnail2.png'
 
