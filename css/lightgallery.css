@@ -309,7 +309,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .lg-outer .lg-thumb {
     padding: 10px 0;
     height: 100%;
-    margin-bottom: -5px;  
+    margin-bottom: -5px;
 }
 
 .lg-outer .lg-thumb-item {
@@ -669,7 +669,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
     text-align: center;
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 90%;
 }
 
 .lg-outer .lg-item:before,
