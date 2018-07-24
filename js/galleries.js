@@ -95,12 +95,16 @@ jQuery('#gallery2').on('click', function (e) {
                 'thumb': 'images/gallery/gallery2/thumbnail1.png'
 
             },
-            { // You Tube videos work only on a server.
-                "src": "http://www.youtube.com/embed/wTzhnZo7NWk",
-                "subHtml": "You Tube",
-                'thumb': 'images/gallery/gallery2/thumbnail2.png'
-
+            {  "src": "http://vimeo.com/281484867",
+              "subHtml": "Vimeo",
+              'thumb': 'images/gallery/gallery2/thumbnail1.png'
             }
+            // { // You Tube videos work only on a server.
+            //     "src": "http://www.youtube.com/embed/wTzhnZo7NWk",
+            //     "subHtml": "You Tube",
+            //     'thumb': 'images/gallery/gallery2/thumbnail2.png'
+            //
+            // }
         ]
     });
 });
