@@ -90,12 +90,12 @@ jQuery('#gallery2').on('click', function (e) {
         dynamicEl: [
             {
 
-                "src": "https://vimeo.com/281532051",
+                "src": "https://vimeo.com/medyfy/medpal",
                 "subHtml": "Vimeo",
                 'thumb': 'images/gallery/gallery2/thumbnail1.png'
 
             },
-            {  "src": "https://vimeo.com/281532051",
+            {  "src": "https://vimeo.com/medyfy/medpal",
               "subHtml": "Vimeo",
               'thumb': 'images/gallery/gallery2/thumbnail1.png'
             }
