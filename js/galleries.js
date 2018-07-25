@@ -233,53 +233,53 @@ jQuery('#gallery5').on('click', function (e) {
         // Images
         dynamicEl: [{
             'src': 'images/gallery/gallery5/image1.png',
-            'thumb': 'images/gallery/gallery5/thumbnail1.png',
+            'thumb': 'images/gallery/gallery5/thumbnail1.svg',
             'subHtml': 'First Image'
         }, {
             'src': 'images/gallery/gallery5/image2.png',
-            'thumb': 'images/gallery/gallery5/thumbnail2.png',
+            'thumb': 'images/gallery/gallery5/thumbnail2.svg',
             'subHtml': "Second Image"
         }, {
             'src': 'images/gallery/gallery5/image3.png',
-            'thumb': 'images/gallery/gallery5/thumbnail3.png',
+            'thumb': 'images/gallery/gallery5/thumbnail3.svg',
             'subHtml': "Third Image"
         }, {
             'src': 'images/gallery/gallery5/image4.png',
-            'thumb': 'images/gallery/gallery5/thumbnail4.png',
+            'thumb': 'images/gallery/gallery5/thumbnail4.svg',
             'subHtml': "Forth Image"
         },
           {
             'src': 'images/gallery/gallery5/image5.png',
-            'thumb': 'images/gallery/gallery5/thumbnail5.png',
+            'thumb': 'images/gallery/gallery5/thumbnail5.svg',
             'subHtml': 'Firth Image'
         }, {
             'src': 'images/gallery/gallery5/image6.png',
-            'thumb': 'images/gallery/gallery5/thumbnail6.png',
+            'thumb': 'images/gallery/gallery5/thumbnail6.svg',
             'subHtml': "Sixth Image"
         }, {
             'src': 'images/gallery/gallery5/image7.png',
-            'thumb': 'images/gallery/gallery5/thumbnail7.png',
+            'thumb': 'images/gallery/gallery5/thumbnail7.svg',
             'subHtml': "Seventh Image"
         }, {
             'src': 'images/gallery/gallery5/image8.png',
-            'thumb': 'images/gallery/gallery5/thumbnail8.png',
+            'thumb': 'images/gallery/gallery5/thumbnail8.svg',
             'subHtml': "eighth Image"
         },
         {
           'src': 'images/gallery/gallery5/image9.png',
-          'thumb': 'images/gallery/gallery5/thumbnail9.png',
+          'thumb': 'images/gallery/gallery5/thumbnail9.svg',
           'subHtml': 'ninth Image'
       }, {
           'src': 'images/gallery/gallery5/image10.png',
-          'thumb': 'images/gallery/gallery5/thumbnail10.png',
+          'thumb': 'images/gallery/gallery5/thumbnail10.svg',
           'subHtml': "tenth Image"
       }, {
           'src': 'images/gallery/gallery5/image11.png',
-          'thumb': 'images/gallery/gallery5/thumbnail11.png',
+          'thumb': 'images/gallery/gallery5/thumbnail11.svg',
           'subHtml': "eleventh Image"
       }, {
           'src': 'images/gallery/gallery5/image12.png',
-          'thumb': 'images/gallery/gallery5/thumbnail12.png',
+          'thumb': 'images/gallery/gallery5/thumbnail12.svg',
           'subHtml': "twelveth Image"
       }]
     });
